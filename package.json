@@ -1,0 +1,17 @@
+{
+  "name": "kura-simulator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "faker": "^3.1.0",
+    "mqtt": "^2.0.1",
+    "protobufjs": "^5.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "EPL-1.0"
+}
